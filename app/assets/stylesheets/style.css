@@ -19,12 +19,14 @@
 
 
 .linkcolor, .linkcolor:visited{ 
-	color: white; }
+	color: white;
+	font-size: 26px; }
 
 
 .linkcolor:hover{
 	color: white;
 	font-style: bold;
+	font-size: 26px;
 }
 
 body {
