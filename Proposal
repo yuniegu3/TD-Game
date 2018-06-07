@@ -1,0 +1,24 @@
+Passion Project Proposal 
+
+Problem to solve.
+Makes the website interactive. Create something fun to keep user on the site.
+Connecting fellow TD gamers. I feel like there are no good ones around anymore. The best one is from warcraft3 and god knows when that came out…and it still is the best on pc…. TD games are fun, relaxing(?), strategic and it can be fun for people of all ages. It also brings back nostalgia for those who played it back in the younger years.
+
+Benefit to user.
+A place to have fun and play games. 
+Possibly a small chat feature to communicate with other users/friends. (Post MVP)
+
+MVP will be to have a site up and running with a game- Tower Defense (unity).
+
+Post MVP
+Having a chat feature at the bottom of the page.
+Having 5 highest scores display on game overs by storing scores in database. 
+Will not have user login/logout, everyone can play the game w/o logging in but to submit their score, prompt user for Name(name not unique) so in database, will store player: Name, Score whenever user decides to submit their score.
+
+
+The timeframe will be a week and I am sure that I can meet that deadline. I have already been practicing some unity lessons on Udemy. The whole lesson is 27 hour video…which I think is plenty of time, considering we have a week to do this project. I am also very passionate about creating a web game so it will keep me moving forward and keep me interested. I have also taken a small course on c#(used in unity) on SoloLearn. I can create some simple functions, I understand how the variable works(int, str and those weird things…also Main). I think I should be able to do it!
+
+
+Risks and issues that I might run into is road block. Since I will probably not be able to ask for others help(dunno who knows unity very well) but I still have stack overflow and the Udemy guide to help me. I think rails website should be very easy to make by now (I did multiple projects with it) and that should let me focus on the main feature, which is going to be a game in Unity.
+
+Project will be deployed to heroku. I’ve done some research. Unity (as long as its made in webgl) is able to go into a rails website through the assets folder in rails. I’ve found a guide on deploying to heroku as well(though it is for webgl + node.js) I think I will be able to do it.
