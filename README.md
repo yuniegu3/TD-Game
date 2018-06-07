@@ -1,24 +1,11 @@
 # README
+Tower Defense game in Unity, embed on rails.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The score is calculated in rounds you've survived.
+Press 'E' to endgame/gameover
+Press 'W,S,A,D' or position mouse on sides of the screen to move camera
 
-Things you may want to cover:
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Credit goes to Brackeys for the game. He has a extensive guide on how to create games on his youtube channel. https://www.youtube.com/user/Brackeys/videos
